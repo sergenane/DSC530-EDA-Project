@@ -1,2 +1,1 @@
-Mental health is a critical issue in the workplace, affecting employee well-being, productivity, and overall organizational performance. Understanding the factors influencing employees’ decisions to seek mental health treatment is essential for developing effective workplace interventions. This project aimed to answer the question: "What factors influence the likelihood of seeking mental health treatment among employees?"
 
